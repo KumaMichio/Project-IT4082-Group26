@@ -51,4 +51,7 @@ Trong phiên bản v1.0 của phần mềm, các chức năng cơ bản cần x�
 6. **Bảo mật và quản lý tài khoản**
    - Các chức năng này chỉ truy cập được sau khi Ban quản trị đăng nhập thành công với tài khoản đã cung cấp.
    - Ban quản trị cũng có thể quản lý các thông tin cá nhân và thay đổi mật khẩu đăng nhập.
+
+### Yêu cầu kỹ thuật
+Phần mềm dự kiến được phát triển dưới dạng một ứng dụng desktop với công nghệ Java, dữ liệu của phần mềm được lưu trữ tập trung trên MySQL server. Nhóm phát triển có thể tìm hiểu và lựa chọn các công nghệ khác phù hợp trong xây dựng giải pháp cho bài toán.
 ---
